@@ -1,0 +1,67 @@
+@charset "utf-8";
+body{
+	background:url(../images/bg.png) no-repeat center center fixed;
+	background-size:cover;
+	}
+#jumboheader{
+	
+	background-color:#222;
+	color: #EEEEEE;
+	height: auto;
+	
+}
+.well {
+	background-color: #222;
+
+}
+.panel{
+	background-color:transparent;
+	color:#eee;
+	border:none;
+}
+.panel-title{
+	border:none;
+	color:#eee;
+}
+
+
+#accordion1{
+	background-color:transparent;
+	border:none;
+}#accordion1 .panel.panel-default .panel-heading {
+	background-color: transparent;
+	border:none;
+}
+
+
+.carousel-inner .item .center-block {
+	opacity: .5;
+}
+.item .text-center{
+	color:#eee;
+}
+.jumbotron{
+padding:10px;
+
+}.container-fluid #jumboheader h1 {
+	font-size: xx-large;
+
+
+}
+.container-fluid #jumboheader p {
+	font-size: large;
+}
+
+#freetrial {
+}
+.container-fluid .center-block #freetrial {
+	background:url("../images/bgimg.png") no-repeat center top;
+	background-size:cover;
+}
+
+.jumbotext {
+	background-color:#eee;
+}
+h1.page-header  {
+	color: #eee;
+}
